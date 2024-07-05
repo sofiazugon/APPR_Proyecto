@@ -1,0 +1,55 @@
+/*
+Theme Name: My Theme Child
+Theme URI: https://themeisle.com/themes/hestia/
+Template: hestia
+Author: Sofia
+Author URI: https://www.instagram.com/im.rabbiit/?hl=es
+Description: Hestias child theme by Sofia
+Tags: blog,custom-logo,portfolio,e-commerce,rtl-language-support,post-formats,grid-layout,one-column,two-columns,custom-background,custom-colors,custom-header,custom-menu,featured-image-header,featured-images,flexible-header,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready,editor-style,footer-widgets,left-sidebar,right-sidebar,wide-blocks
+Version: 3.1.8.1718418431
+Updated: 2024-06-15 02:27:11
+
+*/
+
+.wp-block-button__link {
+    background-color: #009e8b !important;
+    color: white;
+    border-radius: 5px;
+    .a{
+        color: white;
+    }
+    
+
+}
+
+
+.has-large-font-size {
+    color: #00c4ad;
+}
+
+.b, strong {
+    color: #00968493;
+    opacity: 100%;
+
+}
+
+.hestia-title {
+    color: #00968493;
+    opacity: 100%;
+
+}
+
+.blog-item-title-link {
+    color: #00968493;
+    opacity: 100%;
+
+}
+
+
+.wp-block-cover .wp-block-cover__inner-container, .wp-block-cover-image .wp-block-cover__inner-container {
+    color: white;
+    .b, strong{
+        color: white;
+    }
+    
+}
